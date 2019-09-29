@@ -2,7 +2,8 @@ Class {
 	#name : #Sadje,
 	#superclass : #Object,
 	#instVars : [
-		'ime'
+		'ime',
+		'sorta'
 	],
 	#category : #'GitHub-poskusi'
 }
